@@ -137,7 +137,7 @@ export default function PartnersPage() {
                 companies enable us to provide cutting-edge technology and
                 solutions to the Indian Defence Industry. As authorized sole
                 representatives, we bring world-class expertise and products to
-                support India's defence modernization efforts.
+                support India&apos;s defence modernization efforts.
               </p>
               <p className="text-lg text-gray-600 mb-6">
                 These partnerships span multiple countries including Austria,
@@ -287,7 +287,7 @@ export default function PartnersPage() {
               <p className="text-lg text-gray-600 mb-6">
                 We work closely with our international partners to ensure that
                 the latest technologies and manufacturing processes are
-                available to support India's defence requirements while
+                available to support India&apos;s defence requirements while
                 maintaining the highest standards of quality and reliability.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">

@@ -137,7 +137,7 @@ export default function CertificationsPage() {
               <p className="text-lg text-gray-600 mb-6">
                 Being registered with these organizations allows us to
                 participate in defence tenders, collaborate on research
-                projects, and contribute to India's defence modernization
+                projects, and contribute to India&apos;s defence modernization
                 efforts with the highest standards of quality and compliance.
               </p>
               <div className="grid grid-cols-2 gap-4">
