@@ -86,8 +86,8 @@ export default function AboutPage() {
             </p>
             <p className="text-lg max-w-3xl mx-auto text-blue-200">
               From humble beginnings in 1994 to becoming a trusted partner in
-              India's defence sector, our journey reflects our commitment to
-              quality, innovation, and national security.
+              India&apos;s defence sector, our journey reflects our commitment
+              to quality, innovation, and national security.
             </p>
           </div>
         </div>
@@ -119,7 +119,8 @@ export default function AboutPage() {
               <p className="text-lg text-gray-600">
                 Today, we are proud to be registered with major defence
                 organizations including MoD, DRDO, VRDE, and others, serving as
-                a reliable partner in India's defence modernization efforts.
+                a reliable partner in India&apos;s defence modernization
+                efforts.
               </p>
             </div>
             <div className="bg-gray-200 rounded-lg h-96 flex items-center justify-center">

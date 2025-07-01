@@ -135,8 +135,8 @@ export default function ProjectsPage() {
             </p>
             <p className="text-lg max-w-3xl mx-auto text-blue-200">
               Over three decades of delivering critical components and systems
-              for India's defence programmes, from missile systems to bridging
-              solutions and specialized equipment.
+              for India&apos;s defence programmes, from missile systems to
+              bridging solutions and specialized equipment.
             </p>
           </div>
         </div>
@@ -346,7 +346,7 @@ export default function ProjectsPage() {
             Ready to Start Your Project?
           </h2>
           <p className="text-xl mb-8 text-blue-100">
-            Let's discuss how we can support your defence manufacturing
+            Let&apos;s discuss how we can support your defence manufacturing
             requirements.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

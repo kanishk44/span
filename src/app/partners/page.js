@@ -118,7 +118,7 @@ export default function PartnersPage() {
             <p className="text-lg max-w-3xl mx-auto text-blue-200">
               Span Industries is the authorized sole representative for leading
               international defence companies, bringing world-class technology
-              and expertise to India's defence sector.
+              and expertise to India&apos;s defence sector.
             </p>
           </div>
         </div>
@@ -326,7 +326,7 @@ export default function PartnersPage() {
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
               Our international partnerships span multiple continents, bringing
-              diverse expertise and technologies to serve India's defence
+              diverse expertise and technologies to serve India&apos;s defence
               sector.
             </p>
           </div>
