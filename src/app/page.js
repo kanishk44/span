@@ -257,7 +257,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to Partner with Us?</h2>
           <p className="text-xl mb-8 text-blue-100">
-            Let's discuss how we can support your defence manufacturing
+            Let&apos;s discuss how we can support your defence manufacturing
             requirements.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

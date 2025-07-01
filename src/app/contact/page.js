@@ -334,7 +334,7 @@ export default function ContactPage() {
             </h2>
             <p className="text-lg text-gray-600 mb-8 max-w-3xl mx-auto">
               Whether you need a quote, want to discuss a project, or simply
-              have questions about our capabilities, we're here to help.
+              have questions about our capabilities, we&apos;re here to help.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <div className="bg-blue-50 p-6 rounded-lg">
@@ -367,7 +367,7 @@ export default function ContactPage() {
       <section className="py-16 bg-blue-600 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold mb-4">
-            Let's Build Something Great Together
+            Let&apos;s Build Something Great Together
           </h2>
           <p className="text-xl mb-8 text-blue-100">
             Contact us today to discuss how we can support your defence

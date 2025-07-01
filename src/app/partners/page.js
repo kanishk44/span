@@ -357,7 +357,7 @@ export default function PartnersPage() {
       <section className="py-16 bg-blue-600 text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold mb-4">
-            Leverage Global Technology
+            Let&apos;s Build Something Great Together
           </h2>
           <p className="text-xl mb-8 text-blue-100">
             Access world-class defence technology through our international

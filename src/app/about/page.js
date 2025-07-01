@@ -105,8 +105,8 @@ export default function AboutPage() {
                 Span Industries was founded and promoted by Mr. Jitendra J
                 Dalvi, a first-generation entrepreneur with a strong Mechanical
                 Engineering background. His vision was to create a company that
-                would contribute significantly to India's defence manufacturing
-                capabilities.
+                would contribute significantly to India&apos;s defence
+                manufacturing capabilities.
               </p>
               <p className="text-lg text-gray-600 mb-6">
                 Starting with a small facility in Pune, we have grown into a
@@ -142,9 +142,9 @@ export default function AboutPage() {
               Our Founder
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Mr. Jitendra J Dalvi's leadership and vision have been the driving
-              force behind Span Industries' success in the defence manufacturing
-              sector.
+              Mr. Jitendra J Dalvi&apos;s leadership and vision have been the
+              driving force behind Span Industries&apos; success in the defence
+              manufacturing sector.
             </p>
           </div>
 
